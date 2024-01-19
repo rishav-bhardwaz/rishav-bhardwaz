@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **Node Js, React Native, PHP, React, Python**
 
-- 👨‍💻 All of my projects are available at [https://rishav-bhardwaz.github.io/personalweb/](https://rishav-bhardwaz.github.io/personalweb/)
+- 👨‍💻 All of my projects are available at [https://rishav-bhardwaz.github.io/personalweb](https://rishav-bhardwaz.github.io/personalweb/)
 
-- 💬 Ask me about **HTML, CSS, Figma**
+- 💬 Ask me about **React, JavaScript, HTML, Css, Figma**
 
 - 📫 How to reach me **rishav76000@gmail.com**
 
