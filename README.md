@@ -1,6 +1,6 @@
 ![MasterHead](https://visme.co/blog/wp-content/uploads/2020/12/header-19.png)
 <h1 align="center">Hi 👋, I'm Rishav Bhardwaz</h1>
-<h3 align="center">A passionate Frontend developer and UI/UX Designer</h3>
+<h3 align="center">A passionate Web developer and UI/UX Designer</h3>
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/cute-mini-typing-cat-d6gdd3z7yr66oktz.gif">
 
 - 🌱 I’m currently learning **Node Js, React Native, PHP, React, Python**
