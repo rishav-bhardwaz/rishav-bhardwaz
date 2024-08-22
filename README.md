@@ -3,13 +3,13 @@
 <h3 align="center">A passionate Web developer and UI/UX Designer</h3>
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/cute-mini-typing-cat-d6gdd3z7yr66oktz.gif">
 
-- 🌱 I’m currently learning **Node Js, React Native, PHP, React, Python**
+- 🌱 I’m currently learning **NextJS, MongoDB, DevOps, GenAI**
 
 - 👨‍💻 All of my projects are available at [https://rishav-bhardwaz.github.io/personalweb](https://rishav-bhardwaz.github.io/personalweb/)
 
-- 💬 Ask me about **React, JavaScript, HTML, Css, Figma**
+- 💬 Ask me about **Web Development and UI UX Designing**
 
-- 📫 How to reach me **rishav76000@gmail.com**
+- 📫 Reach out to me at **rishav76000@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
