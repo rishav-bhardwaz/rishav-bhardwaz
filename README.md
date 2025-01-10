@@ -25,7 +25,7 @@ Here are a few highlights from my portfolio:
 ### 🔹 [Eventure](https://github.com/rishav-bhardwaz/eventure)  
 A dynamic event creation and ticketing platform allowing users to create public or private events, manage attendees, and purchase tickets.
 
-### 🔹 [Ricoz Consulting Website](https://github.com/rishav-bhardwaz/ricoz-website)  
+### 🔹 [Ricoz Consulting Website]((https://github.com/rishav-bhardwaz/r1))  
 A professional consultancy website featuring landing pages, case studies, and testimonial carousels.
 
 ---
@@ -48,6 +48,8 @@ A professional consultancy website featuring landing pages, case studies, and te
 ![Rishav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rishav-bhardwaz&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rishav-bhardwaz&layout=compact&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rishav-bhardwaz&theme=radical) 
 
 ---
 
