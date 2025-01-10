@@ -45,7 +45,6 @@ A professional consultancy website featuring landing pages, case studies, and te
 ---
 
 ### 📊 GitHub Stats
-![Rishav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rishav-bhardwaz&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rishav-bhardwaz&layout=compact&theme=radical)
 
