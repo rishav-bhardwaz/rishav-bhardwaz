@@ -25,8 +25,8 @@ Here are a few highlights from my portfolio:
 ### 🔹 [Eventure](https://github.com/rishav-bhardwaz/eventure)  
 A dynamic event creation and ticketing platform allowing users to create public or private events, manage attendees, and purchase tickets.
 
-### 🔹 [Ricoz Consulting Website]((https://github.com/rishav-bhardwaz/r1))  
-A professional consultancy website featuring landing pages, case studies, and testimonial carousels.
+### 🔹 [Zortus](https://github.com/rishav-bhardwaz/zortus)  
+Zortus is a smartboard and web based application that integrates Unity for 3D simulations and models while incorporating AI-powered. 
 
 ---
 
