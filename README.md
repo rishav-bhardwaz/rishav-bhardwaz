@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm a **Software Developer** and **UI/UX Designer*
 - **Languages**: JavaScript, TypeScript, Python, C++, HTML, CSS
 - **Frontend**: React.js, Next.js, Astro, Vite.js, Tailwind CSS
 - **Backend**: Node.js, Express.js
-- **Databases**: MongoDB, MySQL
+- **Databases**: MongoDB
 - **Tools & Platforms**: Git, Docker, Postman, Firebase
 
 ### 🎨 UI/UX Design
