@@ -1,46 +1,39 @@
+# Hey there! 👋 I'm Rishav Bhardwaz
 
-# Hi there! 👋 I'm Rishav Bhardwaz
-
-Welcome to my GitHub profile! I'm a **Software Developer** and **UI/UX Designer** passionate about crafting seamless user experiences and building efficient, scalable software solutions.
-
----
-
-## 🛠️ Skills & Expertise
-
-### 💻 Programming & Frameworks
-- **Languages**: JavaScript, TypeScript, Python, C++, HTML, CSS
-- **Frontend**: React.js, Next.js, Astro, Vite.js, Tailwind CSS
-- **Backend**: Node.js, Express.js
-- **Databases**: MongoDB
-- **Tools & Platforms**: Git, Docker, Postman, Firebase
-
-### 🎨 UI/UX Design
-- **Tools**: Figma, Adobe XD, Canva
-- **Specialties**: Wireframing, Prototyping, User Research, Accessibility Design
+Welcome to my digital workshop—aka my GitHub profile!  
+I'm a **Software Developer** & **UI/UX Designer** who turns ☕ into beautiful code and pixel-perfect interfaces. I live for clean code, smooth animations, and building stuff that makes people go "woah".
 
 ---
 
-## 🚀 Projects
-Here are a few highlights from my portfolio:  
-### 🔹 [Eventure](https://github.com/rishav-bhardwaz/eventure)  
-A dynamic event creation and ticketing platform allowing users to create public or private events, manage attendees, and purchase tickets.
+## 🛠️ Skills & Stack Power-Ups
 
-### 🔹 [Zortus](https://github.com/rishav-bhardwaz/zortus)  
-Zortus is a smartboard and web based application that integrates Unity for 3D simulations and models while incorporating AI-powered. 
+### 💻 Code is My Canvas
+- **Languages I Speak Fluently**: JavaScript (JS), TypeScript (TS), C++, Python, HTML, CSS
+- **Frontend Wizardry**: Astro, React.js, Next.js, Vite, NX, Tailwind CSS
+- **Backend Engineering**: Node.js, Express.js
+- **Databases & Magic Scrolls**: MongoDB, Supabase 
+- **Mobile Moves**: React Native (intermediate, but vibing)
+- **Toolbox of Wonders**: Git, Docker, Firebase, Postman
+
+### 🎨 UI/UX Powers
+- **Design Sidekick Tools**: Figma, Adobe XD, Canva
+- **Special Moves**: Wireframing, Prototyping, Accessibility First Design, User-Centric Thinking
 
 ---
 
-## 🌟 What I’m Currently Up To
-- **Exploring**: Advanced MongoDB and integrating backend services with modern frontend frameworks like Vite.
-- **Building**: Scalable platforms using Next.js, Astro and AI-powered features for real-time evaluation systems.
-- **Learning**: Advanced animations using 3JS and experimenting.
+## 🚀 Currently Powering Up
+
+- **Learning**: React Native (because mobile is 🔥), 3JS (because 3D is ✨)
+- **Building**: Fast, beautiful, scalable web apps with Astro, Supabase, and TS like a code sorcerer
+- **Exploring**: More ways to blend design and code into ✨ delightful digital experiences ✨
 
 ---
 
-## 🌐 Connect with Me
-- **Portfolio**: [rishavbhardwaz.fun](https://rishavbhardwaz.fun)
-- **LinkedIn**: [linkedin.com/in/rishav-bhardwaz](https://linkedin.com/in/rishavbhardwaz)
-- **Email**: rishav76000@gmail.com
+## 🌐 Let’s Get in Touch
+
+- **🌍 Portfolio**: [rishavbhardwaz.fun](https://rishavbhardwaz.fun)
+- **🔗 LinkedIn**: [linkedin.com/in/rishav-bhardwaz](https://linkedin.com/in/rishavbhardwaz)
+- **📫 Email**: rishav76000@gmail.com
 
 ---
 
@@ -49,3 +42,5 @@ Zortus is a smartboard and web based application that integrates Unity for 3D si
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rishav-bhardwaz&layout=compact&theme=radical)
 
 ---
+
+_Thanks for stopping by—may your commits be clean and your bugs be few! _
