@@ -1,35 +1,37 @@
 # Hey there! 👋 I'm Rishav Bhardwaz
 
-Welcome to my digital workshop—aka my GitHub profile!  
-I'm a **Software Developer** & **UI/UX Designer** who turns ☕ into beautiful code and pixel-perfect interfaces. I live for clean code, smooth animations, and building stuff that makes people go "woah".
+Welcome to my digital lab—aka my GitHub profile!  
+I'm a **Software Developer** & **UI/UX Designer** who turns ☕ into smooth code and sleek interfaces. I love building performant, scalable apps with pixel-perfect finesse and clean architecture.
 
 ---
 
 ## 🛠️ Skills & Stack Power-Ups
 
-### 💻 Code is My Canvas
 - **Languages I Speak Fluently**: JavaScript (JS), TypeScript (TS), C++, Python, HTML, CSS
-- **Frontend Wizardry**: Astro, React.js, Next.js, Vite, NX, Tailwind CSS
+- **Frontend Wizardry**: Astro ⚡️, React.js, Next.js, Vite, Tailwind CSS
 - **Backend Engineering**: Node.js, Express.js
-- **Databases & Magic Scrolls**: MongoDB, Supabase 
-- **Mobile Moves**: React Native (intermediate, but vibing)
-- **Toolbox of Wonders**: Git, Docker, Firebase, Postman
+- **Databases & Data Magic**: MongoDB, Supabase 🧙‍♂️
+- **Mobile Moves**: React Native (intermediate & leveling up!)
+
+### 🧩 Monorepos & Build Tools
+- **Toolstack Mastery**: Nx 🛠️, Turborepo 🚀, Yarn Workspaces, pnpm Workspaces
+- **Currently Learning**: Bazel 🔥, Rush.js (because scaling is an art)
 
 ### 🎨 UI/UX Powers
 - **Design Sidekick Tools**: Figma, Adobe XD, Canva
-- **Special Moves**: Wireframing, Prototyping, Accessibility First Design, User-Centric Thinking
+- **Special Moves**: Wireframing, Prototyping, Accessibility-First Design, User-Centered Thinking
 
 ---
 
 ## 🚀 Currently Powering Up
 
 - **Learning**: React Native (because mobile is 🔥), 3JS (because 3D is ✨)
-- **Building**: Fast, beautiful, scalable web apps with Astro, Supabase, and TS like a code sorcerer
-- **Exploring**: More ways to blend design and code into ✨ delightful digital experiences ✨
+- **Building**: Fast, beautiful, scalable web apps with Astro, Supabase, and TypeScript
+- **Exploring**: Monorepo setups like a pro—streamlining dev workflows with Nx, Turborepo, and friends
 
 ---
 
-## 🌐 Let’s Get in Touch
+## 🌐 Let’s Connect
 
 - **🌍 Portfolio**: [rishavbhardwaz.fun](https://rishavbhardwaz.fun)
 - **🔗 LinkedIn**: [linkedin.com/in/rishav-bhardwaz](https://linkedin.com/in/rishavbhardwaz)
@@ -43,4 +45,4 @@ I'm a **Software Developer** & **UI/UX Designer** who turns ☕ into beautiful c
 
 ---
 
-_Thanks for stopping by—may your commits be clean and your bugs be few! _
+_Thanks for dropping by—may your builds be blazing fast and your branches always merge cleanly! 💻⚡️_
