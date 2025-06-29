@@ -3,7 +3,8 @@
 I'm a **Software Developer** who turns ☕ into smooth code and sleek interfaces. I love building performant, scalable apps with pixel-perfect finesse and clean architecture.
 
 ---
-<img src="https://github.com/user-attachments/assets/99da9e03-5e72-49a0-8bb9-ccc4c271e04f" align="right">
+<img src="https://github.com/user-attachments/assets/a758a034-bce8-453c-9328-c40a08563456" align="right">
+
 
 ### Skills & Stack Power-Ups
 
