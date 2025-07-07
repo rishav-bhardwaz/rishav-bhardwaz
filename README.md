@@ -12,7 +12,7 @@ I'm a **Software Developer** who turns ☕ into smooth code and sleek interfaces
 - **Frontend Wizardry**: Astro , React.js, Next.js, Vite, Tailwind CSS
 - **Backend Engineering**: Node.js, Express.js
 - **Databases & Data Magic**: MongoDB, Supabase
-- **Mobile Moves**: React Native, Expo
+- **Mobile Moves**: React Native, Expo, Tamagui
 
 ### Let’s Connect
 
